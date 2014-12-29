@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TestFont</string>
+    <string name="icon_next_match">&#xf1e3;</string>
+    <string name="icon_news">&#xf1ea;</string>
+    <string name="icon_calendar">&#xf073;</string>
+    <string name="icon_results">&#xf022;</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
